@@ -1,0 +1,6 @@
+Variable,Cat,N,b,sig,lb,ub,ano,t,P,
+Ecosystem type,Marine ecosystem,(47/444),-2.293499136,,-2.641358527,-1.945639744,a,-0.542 ,0.588 ,9.17%
+Ecosystem type,Freshwater ecosystem,(56/711),-2.954164865,***,-3.294069103,-2.614260627,b,-4.365 ,0.000 ,4.95%
+Ecosystem type,Terrestrial ecosystem,(7/114),-4.635074392,***,-5.164188957,-4.105959826,c,-9.030 ,0.000 ,0.96%
+Ecosystem origin,Natural ecosystem,(98/1082),-2.768131144,***,-3.066365876,-2.469896412,a,-3.752 ,0.000 ,5.91%
+Ecosystem origin,Artificial ecosystem,(9/187),-2.804149854,,-3.718177368,-1.890122341,a,-1.301 ,0.195 ,5.71%

@@ -1,0 +1,37 @@
+Variable,Cat,Type,inter,b,sig,lb,ub,t,P,order,N,ano,
+Resource,Plant,Marine,Marine Plant,-2.636402796,.,-3.087968185,-2.184837406,-1.906,0.058,6,(14/157),a,6.68%
+Resource,Plant,Freshwater,Freshwater Plant,-3.402895911,***,-3.823054842,-2.98273698,-5.624,0,5,(21/264),a,3.22%
+Resource,Plant,Terrestrial,Terrestrial Plant,-5.206732591,***,-5.764886047,-4.648579135,-10.568,0,7,(6/103),b,0.54%
+Resource,Animal,Marine,Marine Animal,-3.243389796,***,-3.682917477,-2.803862115,-4.665,0,2,(24/150),a,3.76%
+Resource,Animal,Freshwater,Freshwater Animal,-2.848587855,**,-3.242168132,-2.455007577,-3.244,0.001,1,(27/239),a,5.48%
+Resource,Animal,Terrestrial,Terrestrial Animal,-0.141023477,***,-1.296440936,1.014393982,3.488,0.001,3,(3/11),c,46.48%
+Resource,Detritus,Marine,Marine Detritus,-2.966542212,,-4.770497059,-1.162587364,-0.836,0.405,4,(2/28),abc,4.90%
+Resource,Detritus,Freshwater,NA,,,,,,,,,,
+Resource,Detritus,Terrestrial,NA,,,,,,,,,,
+Resource,Plant+detritus,Marine,Marine Plant+detritus,-1.490280708,*,-1.946241406,-1.03432001,3.039,0.012,9,(33/105),c,18.39%
+Resource,Plant+detritus,Freshwater,Freshwater Plant+detritus,-2.703145231,.,-3.118105068,-2.288185394,-2.39,0.097,8,(36/207),a,6.28%
+Resource,Plant+detritus,Terrestrial,NA,,,,,,,,,,
+Resource,Plant+detritus+animal,Marine,Marine Plant+detritus+animal,-2.306252375,,-4.993587009,0.381082258,-0.08,0.937,10,(1/4),abc,9.06%
+Resource,Plant+detritus+animal,Freshwater,NA,,,,,,,,,,
+Resource,Plant+detritus+animal,Terrestrial,NA,,,,,,,,,,
+Consumer,Vertebrate endotherm,Marine,NA,,,,,,,,,,
+Consumer,Vertebrate endotherm,Freshwater,NA,,,,,,,,,,
+Consumer,Vertebrate endotherm,Terrestrial,Terrestrial Vertebrate endotherm,-6.2078337,***,-8.080649587,-4.335017814,-4.197,0,16,(2/40),a,0.20%
+Consumer,Vertebrate ectotherm,Marine,Marine Vertebrate ectotherm,-0.928847295,*,-1.925321644,0.067627055,2.495,0.02,15,(3/16),b,28.32%
+Consumer,Vertebrate ectotherm,Freshwater,Freshwater Vertebrate ectotherm,-2.689531555,,-3.328511708,-2.050551402,-1.51,0.152,14,(9/59),c,6.36%
+Consumer,Vertebrate ectotherm,Terrestrial,NA,,,,,,,,,,
+Consumer,Invertebrate,Marine,Marine Invertebrate,-2.52267486,,-3.108089629,-1.937260092,-1.09,0.28,12,(24/165),c,7.43%
+Consumer,Invertebrate,Freshwater,Freshwater Invertebrate,-2.874340939,**,-3.340008329,-2.408673549,-2.85,0.005,11,(41/462),c,5.34%
+Consumer,Invertebrate,Terrestrial,Terrestrial Invertebrate,-3.906008809,*,-5.528358036,-2.283659581,-2.064,0.041,13,(3/26),ac,1.97%
+TL,I-II,Marine,Marine I-II,-1.964376295,,-2.341059538,-1.587693052,1.212,0.227,18,(46/289),a,12.30%
+TL,I-II,Freshwater,Freshwater I-II,-2.841477723,***,-3.199107718,-2.483847728,-3.531,0,17,(54/472),bc,5.51%
+TL,I-II,Terrestrial,Terrestrial I-II,-4.603923523,***,-5.135434386,-4.072412661,-8.875,0,19,(6/103),de,0.99%
+TL,II-III,Marine,Marine II-III,-2.726743889,*,-3.225377859,-2.228109918,-2.081,0.038,21,(25/64),bc,6.14%
+TL,II-III,Freshwater,Freshwater II-III,-2.428458151,,-2.842341483,-2.01457482,-1.095,0.279,20,(27/164),ac,8.10%
+TL,II-III,Terrestrial,Terrestrial II-III,0.7075832,***,-0.520721395,1.935887796,4.635,0,22,(2/9),f,66.99%
+TL,III-IV,Marine,Marine III-IV,-3.493995727,***,-4.076079866,-2.911911588,-4.366,0,24,(17/39),bcgh,2.95%
+TL,III-IV,Freshwater,Freshwater III-IV,-3.620100574,***,-4.256776597,-2.983424551,-4.38,0,23,(12/29),beh,2.61%
+TL,III-IV,Terrestrial,NA,,,,,,,,,,
+TL,IV-,Marine,Marine IV-,-4.101726203,***,-4.681978199,-3.521474207,-6.433,0,26,(13/48),degh,1.63%
+TL,IV-,Freshwater,Freshwater IV-,-4.64760687,***,-5.257596875,-4.037616865,-7.873,0,25,(7/46),dg,0.95%
+TL,IV-,Terrestrial,NA,,,,,,,,,,
